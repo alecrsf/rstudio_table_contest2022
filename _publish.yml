@@ -1,0 +1,4 @@
+- source: TableContest2022.qmd
+  quarto-pub:
+    - id: f62f3bed-b935-4339-a2f9-293c6c9f9f19
+      url: 'https://quartopub.com/sites/alecrsf/rstudio-table-contest-2022'
